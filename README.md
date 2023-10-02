@@ -1,3 +1,3 @@
-- 🌱 I’m learning Python, Html, Css, Jq, Java, Javascript, Vue.js, Japanese, Spanish,  Lua, SQL, JSON, PHP.
+- 🌱 I’m learning Python, Html, Css, Jq, Java, Javascript, Vue.js, Japanese, Spanish,  Lua, SQL, JSON, PHP, RUST.
 - ⚡ Fun fact: Im 15 years old.
 --> Bye.
